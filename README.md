@@ -178,7 +178,7 @@ Please, make sure all steps are using **the same** python version and that you h
 
 ## W&B Project
 
-Link to the W&B Project: https://api.wandb.ai/links/ruh07-western-governors-university/2fpa6cs4
+Link to the W&B project: https://api.wandb.ai/links/ruh07-western-governors-university/2fpa6cs4
 
 ## GitHub Repository
 
