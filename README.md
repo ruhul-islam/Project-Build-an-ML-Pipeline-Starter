@@ -176,6 +176,11 @@ If you see the any error while running the command:
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
 
+## W&B Project
+
+Link to the W&B Project: https://api.wandb.ai/links/ruh07-western-governors-university/2fpa6cs4
+
+
 ## License
 
 [License](LICENSE.txt)
